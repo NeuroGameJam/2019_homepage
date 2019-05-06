@@ -26,6 +26,8 @@ O comité organizador,
 
 <code>Gautam Agarwal</code>  (Postdoctoral Fellow @ Systems Neuroscience Lab, Champalimaud Research)
 
+<code>Pedro Gamito</code>  (Professor, HEI Lab @ ULusofona)
+
 <code>Tiago Quendera</code>  (Graduate Student @ Systems Neuroscience Lab, Champalimaud Research)
 
 <code>Wilson Almeida</code>  (Game Creator and Professor @ ULusofona)
