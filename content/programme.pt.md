@@ -4,18 +4,16 @@ weight = 21
 draft = true
 +++
 
-- __Sexta, 11__
-    - __18h00__ - Abertura de portas
-    - __18h30 / 19h30__ - Micro Talks
-    - __19h30 / 20h00__ -  Quebra gelo
-    - __20h00__ - Briefing
-    - __20h30__ - Vamos fazer jogos!
+- __Friday, 24th__
+    - __18h00__ - Abertura de Portas
+    - __18h30__ - Apresentação - Neuro Game Jam
+    - __19h00__ - Quebra-Gelo + Formação de Equipas
+    - __19h30__ - Let's make games!
 
-- __Sábado, 12__
+- __Saturday, 25th__
     - __00h00 / 23h59__ - Jam!
-    - Podcast Super Papo-Seco
 
-- __Domingo, 13__
-    - __17h30__ - Entrega
-    - __18h00__ - Apresentações + Cerimónia de Prémios
-    - __19h00__ - Fecho de portas
+- __Sunday, 26th__
+    - __17h00__ - Submissão dos Jogos
+    - __18h00__ - Apresentações + Anúncio dos Vencedores
+    - __19h00__ - Fim do Evento

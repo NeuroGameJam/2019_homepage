@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->May 24th - 26th, 2018<!--]--> <br/> <!--[-->@ Universidade Lusófona<!--]-->'
+  description = '<!--[-->May 24th - 26th, 2019<!--]--> <br/> <!--[-->@ Universidade Lusófona<!--]-->'
   copyright = "Source code"
   signup = "Sign-up!"
   signlang = "https://docs.google.com/forms/d/1med3PjBIn_hkklt1q_zPfZzqDyZ1hvnvEySBUmwsq9A/viewform?fbclid=IwAR1RyqNbWiUL2LJxs-hz_aCK0eD1RKeyi-uPynmWN8EkJJpXYhs4_gqktQw&edit_requested=true"
@@ -41,6 +41,6 @@ weight = 1
 languageName = "Portuguese"
 weight = 2
 title = "Neuro Game Jam"
-description = '<!--[--> 24 - 26 de Maio, 2018<!--]--> <br/> <!--[-->@ Universidade Lusófona<!--]-->'
+description = '<!--[--> 24 - 26 de Maio, 2019<!--]--> <br/> <!--[-->@ Universidade Lusófona<!--]-->'
 signup = "Register here!"
 signlang = "https://docs.google.com/forms/d/1AnQHOFTfY0e3EH_iQUQgL1HIzCAKsCAahQ3_McXSKUw/viewform?edit_requested=true"

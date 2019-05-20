@@ -1,7 +1,7 @@
 +++
 title = "Rules"
 weight = 30
-draft = true
+draft = false
 +++
 
 <h3 class="major">RULES AND CONDITIONS</h3>
